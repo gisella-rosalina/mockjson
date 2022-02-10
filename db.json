@@ -3,32 +3,32 @@
       {
          "imageurl":"https://bb.trvcdn.net/uploads/galleries/438782670580cb44321004_grand_lucky_.jpg",
          "name":"Grand Lucky",
-         "lat":-6.2242,
-         "lng":106.8049 
+         "lat":47.5622,
+         "lng":13.6493
       },
       {
          "imageurl":"https://indonesiaexpat.id/wp-content/uploads/2020/02/images-7.jpeg",
          "name":"KemChick Pik",
-         "lat":-6.0931, 
-         "lng":106.7400
+         "lat":21.4082,
+         "lng":-78.5684
       },
       {
          "imageurl":"https://indonesiaexpat.id/wp-content/uploads/2020/02/ranchmarket-e1619004344717.jpg",
          "name":"Ranch Market",
-         "lat":-6.1861,
-         "lng":106.7561
+         "lat":19.8078,
+         "lng":-96.9160
       },
       {
          "imageurl":"https://indonesiaexpat.id/wp-content/uploads/2020/02/images-10.jpeg",
          "name":"Food Hall",
-         "lat":-6.1908, 
-         "lng":106.8228
+         "lat":-13.1631,
+         "lng":-72.5450
       },
       {
          "imageurl":"https://indonesiaexpat.id/wp-content/uploads/2020/02/images-11.jpeg",
          "name":"Club Sehat",
-         "lat":-6.1151, 
-         "lng":106.7759
+         "lat":3.2028,
+         "lng":73.2207
       }
    ]
 }
