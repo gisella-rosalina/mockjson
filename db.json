@@ -9,26 +9,26 @@
       {
          "imageurl":"https://indonesiaexpat.id/wp-content/uploads/2020/02/images-7.jpeg",
          "name":"KemChick Pik",
-         "lat":21.4082,
-         "lng":-78.5684
+         "lat":-6.092662083970472, 
+         "lng":106.73999592688783
       },
       {
          "imageurl":"https://indonesiaexpat.id/wp-content/uploads/2020/02/ranchmarket-e1619004344717.jpg",
          "name":"Ranch Market",
-         "lat":19.8078,
-         "lng":-96.9160
+         "lat":-6.187379446633715, 
+         "lng":106.75626894306174
       },
       {
          "imageurl":"https://indonesiaexpat.id/wp-content/uploads/2020/02/images-10.jpeg",
          "name":"Food Hall",
-         "lat":-13.1631,
-         "lng":-72.5450
+         "lat":-6.194202400351392, 
+         "lng":106.8192760341765
       },
       {
          "imageurl":"https://indonesiaexpat.id/wp-content/uploads/2020/02/images-11.jpeg",
          "name":"Club Sehat",
-         "lat":3.2028,
-         "lng":73.2207
+         "lat":-6.113726230993752, 
+         "lng":106.77577750104011
       }
    ]
 }
