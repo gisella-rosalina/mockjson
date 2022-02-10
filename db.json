@@ -1,0 +1,34 @@
+{
+   "data":[
+      {
+         "imageurl":"https://bb.trvcdn.net/uploads/galleries/438782670580cb44321004_grand_lucky_.jpg",
+         "name":"Grand Lucky",
+         "lat":-6.224246717637701,
+         "lng":106.80492258755373 
+      },
+      {
+         "imageurl":"https://indonesiaexpat.id/wp-content/uploads/2020/02/images-7.jpeg",
+         "name":"KemChick Pik",
+         "lat":-6.093131493425643, 
+         "lng":106.74003886191024
+      },
+      {
+         "imageurl":"https://indonesiaexpat.id/wp-content/uploads/2020/02/ranchmarket-e1619004344717.jpg",
+         "name":"Ranch Market",
+         "lat":-6.1861786835367525,
+         "lng":106.75612087134274
+      },
+      {
+         "imageurl":"https://indonesiaexpat.id/wp-content/uploads/2020/02/images-10.jpeg",
+         "name":"Food Hall",
+         "lat":-6.190894092024346, 
+         "lng":106.82284803799637
+      },
+      {
+         "imageurl":"https://indonesiaexpat.id/wp-content/uploads/2020/02/images-11.jpeg",
+         "name":"Club Sehat",
+         "lat":-6.1151233177368205, 
+         "lng":106.77591669653967
+      }
+   ]
+}
